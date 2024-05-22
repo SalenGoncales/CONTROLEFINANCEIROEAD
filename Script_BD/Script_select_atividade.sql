@@ -1,0 +1,1 @@
+select * from tb_movimento where id_usuario=1;
